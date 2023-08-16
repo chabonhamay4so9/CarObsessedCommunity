@@ -20,13 +20,13 @@ class App extends Component {
             ))}
   
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137490538-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GMQTQSW3NS"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-137490538-1');
+  gtag('config', 'G-GMQTQSW3NS');
 </script>
   
           </Head>
